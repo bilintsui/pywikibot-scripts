@@ -9,5 +9,4 @@
 	"create_redirect-linkformat": "Localized redirect link format, should be a valid localization in wikis of your language.",
 	"create_redirect-missing-arg-prompt": "Prompt text shown when some options requires a value do not have a value.",
 	"create_redirect-pairsfile-odd-num": "Error message shown when pairs file have extra line, which make it not properly paired."
-
 }

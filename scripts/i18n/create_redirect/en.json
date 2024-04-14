@@ -9,5 +9,4 @@
 	"create_redirect-linkformat": "#REDIRECT [[%(target)s]]",
 	"create_redirect-missing-arg-prompt": "Please enter a value for arg \"%(arg)s\"",
 	"create_redirect-pairsfile-odd-num": "File \"{filename}\" contains odd number of links"
-
 }
