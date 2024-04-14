@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bilin Tsui"
+		]
+	},
+	"create_redirect-page-existed": "{page.site}上已存在页面{page}。",
+	"create_redirect-defaultsummary": "机器人：重定向页面至[[%(target)s]]",
+	"create_redirect-linkformat": "#重定向 [[%(target)s]]",
+	"create_redirect-missing-arg-prompt": "请为参数\"%(arg)s\"输入一个值",
+	"create_redirect-pairsfile-odd-num": "文件\"{filename}\"中有奇数个链接"
+
+}

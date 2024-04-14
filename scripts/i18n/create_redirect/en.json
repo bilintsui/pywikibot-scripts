@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bilin Tsui"
+		]
+	},
+	"create_redirect-page-existed": "Page {page} does already exist on {page.site}.",
+	"create_redirect-defaultsummary": "Bot: Create redirect to [[%(target)s]]",
+	"create_redirect-linkformat": "#REDIRECT [[%(target)s]]",
+	"create_redirect-missing-arg-prompt": "Please enter a value for arg \"%(arg)s\"",
+	"create_redirect-pairsfile-odd-num": "File \"{filename}\" contains odd number of links"
+
+}
